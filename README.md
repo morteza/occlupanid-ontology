@@ -1,4 +1,4 @@
-occlupanid-ontology
+Occlupanid Ontology
 ===================
 
-the most unsuseful ontology to model occlupanids
+The most unsuseful ontology to model occlupanids
