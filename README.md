@@ -8,7 +8,9 @@ The most unsuseful ontology to model occlupanids.
 
 ### Author
 
-Morteza Ansarinia <ansarinia@me.com> [cards.onto.ir](http://cards.onto.ir)
+Morteza Ansarinia 
+- **Email:** <ansarinia@me.com>
+- **Blog:** [cards.onto.ir](http://cards.onto.ir)
 
 ### Copyright and License
 
