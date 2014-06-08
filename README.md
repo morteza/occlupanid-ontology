@@ -1,18 +1,20 @@
-## Occlupanid Ontology
+# Occlupanid Ontology
 
 The most unsuseful ontology to model occlupanids.
 
-### Intor
+## Intor
 
 // TBW
 
-### Author
+## Author
 
-Morteza Ansarinia 
+**Morteza Ansarinia**
+
 - **Email:** <ansarinia@me.com>
+
 - **Blog:** [cards.onto.ir](http://cards.onto.ir)
 
-### Copyright and License
+## Copyright and License
 
 This work is licensed under the Creative Commons **Attribution-NonCommercial-ShareAlike 4.0** International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
