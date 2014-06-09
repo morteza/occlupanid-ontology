@@ -4,7 +4,9 @@ The most unsuseful ontology to model occlupanids.
 
 ## Intor
 
-// TBW
+>Occlupanids are generally found as parasitoids on bagged pastries in supermarkets, hardware stores, and other large commercial establishments. Their fascinating and complex life cycle is unfortunately severely under-researched. What is known is that they take nourishment from the plastic sacs that surround the bagged product, not the product itself, as was previously thought. Notable exceptions to this habit are those living off rubber bands and on analog watch hands.
+>
+> [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/?page_id=2)
 
 ## Author
 
