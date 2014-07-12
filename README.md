@@ -8,12 +8,6 @@ The most unsuseful ontology to model occlupanids.
 >
 > [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/?page_id=2)
 
-## Author
-
-**Morteza Ansarinia**
-
-- **Email:** <ansarinia@me.com>
-
 ## Copyright and License
 
 This work is licensed under the Creative Commons **Attribution-NonCommercial-ShareAlike 4.0** International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
