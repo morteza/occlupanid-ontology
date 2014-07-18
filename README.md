@@ -1,6 +1,6 @@
 # Occlupanid Ontology
 
-The most unsuseful ontology to model occlupanids.
+The most unusable ontology to model occlupanids.
 
 ## Intro
 
